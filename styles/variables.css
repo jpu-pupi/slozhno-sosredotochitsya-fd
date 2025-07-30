@@ -3,6 +3,18 @@
   и их переопределение под различные устройства
 */
 :root {
+  --main-font: 'IBM Plex Mono';
   --bc-image: url(../images/cover-image-dark.png);
   --bc-color: #000028;
+  --header-text-color-rec: #FF0070;
+  --h1-color: #DB00FF;
+  --font-bold: 700;
+  --title-color: #000028;
+  --main-text-color: #F1B2CE;
+
+  --inset: 10px;
+
+  --accent-color: #FF0070;
+
+
 }
