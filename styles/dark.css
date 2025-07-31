@@ -2,10 +2,12 @@
   :root.theme-dark {
    --bc-image: url(../images/cover-image-dark.png);
   --bc-color: #000028;
-  --h1-color: #DB00FF;
+  --main-text-color: #F1B2CE;
   --accent-color: #FF0070;
-  --header-text-color-rec: #FF0070;
-  --title-color: #000028;
+  --h1-color: #DB00FF;
+  --h2-color: #FF0070;
+  --h3-color: #000028;
+  --botton-hover: rgba(255, 0, 112, 0.4);
   }
 
   .theme-dark .header__rec {
