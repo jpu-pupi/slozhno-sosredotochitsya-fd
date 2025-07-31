@@ -6,7 +6,6 @@
   --main-font: 'IBM Plex Mono';
   --font-bold: 700;
   --font-normal: 400;
-
   --bc-image: url(../images/cover-image-dark.png);
   --bc-color: #000028;
   --main-text-color: #F1B2CE;
@@ -14,10 +13,4 @@
   --h1-color: #DB00FF;
   --h2-color: #FF0070;
   --h3-color: #000028;
-
-  --inset: 10px;
-
- 
-
-
 }
