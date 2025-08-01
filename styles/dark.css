@@ -4,9 +4,9 @@
   --bc-color: #000028;
   --main-text-color: #F1B2CE;
   --accent-color: #FF0070;
-  --h1-color: #DB00FF;
-  --h2-color: #FF0070;
-  --h3-color: #000028;
+  --header-title: #DB00FF;
+  --section-main-title-color: #FF0070;
+  --section-title-color: #000028;
   --botton-hover: rgba(255, 0, 112, 0.4);
   }
 

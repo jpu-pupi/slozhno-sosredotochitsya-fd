@@ -9,9 +9,9 @@
   --bc-color: #FFF1F7;
   --main-text-color: #353430;
   --accent-color: #FF8DCB;
-  --h1-color: #FFC2E6;
-  --h2-color: #353430;
-  --h3-color: #353430;
+  --header-title: #FFC2E6;
+  --section-main-title-color: #353430;
+  --section-title-color: #353430;
   --botton-hover: rgba(50, 49, 45, 0.4);
 }
 
@@ -26,10 +26,10 @@
   --bc-color: #FFF1F7;
   --main-text-color: #353430;
   --accent-color: #FF8DCB;
-  --h1-color: #FFC2E6;
-  --h2-color: #353430;
-  --h3-color: #353430;
-  -botton-hover: rgba(50, 49, 45, 0.4);
+  --header-title: #FFC2E6;
+  --section-main-title-color: #353430;
+  --section-title-color: #353430;
+  --botton-hover: rgba(50, 49, 45, 0.4);
 }
 
   .header__rec {
